@@ -1,6 +1,7 @@
-# Ender 3 V3 + K1 Display Touch Fix
+# Ender 3 V3 K1 Display Touch Fix (Goodix gt9xx)
 
-Correção completa do touch após adaptação de display da linha K1 na Creality Ender 3 V3.
+> Fix definitivo para o problema de touch ao usar display da K1 na Ender 3 V3  
+> Diagnóstico completo + solução persistente no boot (sem gambiarra manual)
 
 ---
 
